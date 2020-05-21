@@ -1,5 +1,4 @@
-Hello World! This is the readme file!
+This is a simple prgoram that will say hello world.
 
-New updates!
-
-Lets see if this sentence pulls. 
+To use this program, run `python me.py`.
+ 
